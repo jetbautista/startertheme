@@ -1,0 +1,44 @@
+/*
+ Theme Name:     WP Bootstrap Starter Child Theme
+ Theme URI:      https://wordpress.org/themes/wp-bootstrap-starter/
+ Description:    A child theme of WPBS Theme
+ Author:         Afterimage Designs
+ Author URI:     https://afterimagedesigns.com/
+ Template:       wp-bootstrap-starter
+ Version:        1.4
+*/
+
+
+/****************************************
+*** Theme customization starts below ***
+*****************************************/
+
+#masthead .navbar-nav li > .dropdown-menu li .dropdown-menu,
+#masthead .navbar-nav > li > .dropdown-menu {
+    display: block;
+    opacity: 0;
+    visibility: hidden;
+	-khtml-transition: all .2s ease-in-out;
+	-o-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+#masthead .navbar-nav li > .dropdown-menu li:hover .dropdown-menu,
+#masthead .navbar-nav > li:hover > .dropdown-menu {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+#masthead .navbar-nav li > .dropdown-menu li:hover .dropdown-menu {
+    top: 0;
+    width: 200px !important;
+}
+
+
+
+/**
+Media Queries
+---------------------------------------**/
+

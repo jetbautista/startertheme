@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: April 19, 2021 2:46 am
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.0
+WORDPRESS:	5.7.1
+PHP INFO:	7.4.15 | SAPI: apache2handler
+SERVER:		Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.4.15 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 8MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: kinslow_817e33d7a126a0899138_20210419024551_database.sql
+SQL FILE SIZE: 893.94KB (915394)
+SQL FILE TIME: 2021-04-19 02:46:02
+SQL RUNTIME: 2.37 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/startertheme
+ARCHIVE FILE: kinslow_817e33d7a126a0899138_20210419024551_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	156.49MB
+STATS:	Dirs 1,325 | Files 8,394
+SQL ADDED: kinslow_817e33d7a126a0899138_20210419024551_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9719
+    [filename] => C:\xampp\htdocs\startertheme\wp-content\backups-dup-lite\tmp\kinslow_817e33d7a126a0899138_20210419024551_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 9718
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 61.13MB
+ARCHIVE RUNTIME: 57.83 sec.
+MEMORY STACK: 10MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/startertheme/wp-content/backups-dup-lite/tmp/kinslow_817e33d7a126a0899138_20210419024551_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 893.94KB
+INSTALLER FILE: 63.94KB
+ARCHIVE FILE: 62.68MB 
+EXPECTED FILE/DIRECTORY COUNT: 9,719
+ACTUAL FILE/DIRECTORY COUNT: 9,718
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 61.62 sec.
+PEAK PHP MEMORY USED: 14MB
+DONE PROCESSING => kinslow April 19, 2021 2:47 am
+
